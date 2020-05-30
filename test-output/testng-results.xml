@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47797" started-at="2020-05-31T00:55:45 IST" finished-at="2020-05-31T00:56:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47797" started-at="2020-05-31T00:55:45 IST" finished-at="2020-05-31T00:56:33 IST">
+      <class name="automation.login.PlaceOrder">
+        <test-method status="PASS" signature="executeScript()[pri:0, instance:automation.login.PlaceOrder@4493d195]" name="executeScript" is-config="true" duration-ms="16399" started-at="2020-05-31T00:55:45 IST" finished-at="2020-05-31T00:56:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeScript -->
+        <test-method status="PASS" signature="placeOrder()[pri:0, instance:automation.login.PlaceOrder@4493d195]" name="placeOrder" duration-ms="30867" started-at="2020-05-31T00:56:01 IST" finished-at="2020-05-31T00:56:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automation.login.PlaceOrder@4493d195]" name="tearDown" is-config="true" duration-ms="483" started-at="2020-05-31T00:56:32 IST" finished-at="2020-05-31T00:56:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automation.login.PlaceOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
